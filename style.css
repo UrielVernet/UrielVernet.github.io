@@ -1,0 +1,26 @@
+
+.card-text{
+   
+   
+    height:100px;
+    overflow: hidden;
+    
+   
+}
+
+.fuente_titulo{
+    
+        font-family: 'caveat', cursive !important;
+        font-size: 40px !important
+
+
+}
+
+.fuente_subtitulo{
+    font-family: 'Fjalla One', sans-serif;
+
+}
+
+
+
+
